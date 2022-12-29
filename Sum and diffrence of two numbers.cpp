@@ -14,7 +14,7 @@
 #include <stdlib.h>
 int main()
 {
-	int a,b,r,s;
+    int a,b,r,s;
     float c,d,j,m;
     scanf("%d%d",&a,&b);
     scanf("%f%f",&c,&d);
