@@ -2,6 +2,7 @@
 void Cond();
 int main(){
 	Cond();
+	
 }
 
 void Cond(){
