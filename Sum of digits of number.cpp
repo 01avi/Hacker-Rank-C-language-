@@ -1,5 +1,5 @@
 //Given a five digit integer, print the sum of its digits.
-w
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
