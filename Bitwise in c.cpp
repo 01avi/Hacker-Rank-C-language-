@@ -1,7 +1,6 @@
 //Print the maximum values for the and, or and xor comparisons, each on a separate line.
 
 #include <stdio.h>
-
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
